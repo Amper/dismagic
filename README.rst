@@ -19,6 +19,10 @@ The package may be installed as follows: ::
 
     pip install dismagic
 
+or in iPython shell:
+
+    %install_ext https://raw.githubusercontent.com/Amper/dismagic/master/dismagic.py
+
 After installation, the extension may be loaded within an IPython session
 with ::
 
@@ -39,7 +43,7 @@ Disassembly a source:
 Disassembly an object:
 
     func = lambda x, y: x + y
-    
+
     %dis func
 
 Author
