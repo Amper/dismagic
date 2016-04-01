@@ -1,6 +1,6 @@
 License
 =======
-Copyright (c) 2014, Lev Givon.
+Copyright (c) 2016, Marshalov Alexander.
 All rights reserved.
 
 Redistribution and use in source and binary forms, with or without
