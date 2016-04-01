@@ -33,11 +33,13 @@ Disassembly a source:
     %dis "x = a + b"
 
     src = "x = a + b"
+
     %dis src
 
 Disassembly an object:
 
     func = lambda x, y: x + y
+    
     %dis func
 
 Author
